@@ -1,3 +1,4 @@
 {
-    "flakes": true
+    "flakes": true,
+    "keep_evaluations": 1
 }
